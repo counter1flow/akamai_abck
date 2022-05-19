@@ -15,4 +15,4 @@ dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破�
 
 ![1652785502(1)](https://user-images.githubusercontent.com/42806328/168798068-602cedb4-b6f6-4842-bde9-62493dda90e6.png)
 
-https://www.flightroutes24.com/
+
