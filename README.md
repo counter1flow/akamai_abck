@@ -1,6 +1,6 @@
 # akamai_abck
 akamai sensordata 1.75py通杀脚本
-dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破盾算法纯PY还原，私聊询价。可提供并发方案。vx: 359926203
+dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破盾算法纯PY还原，私聊询价。可提供并发方案, 下面有并发结果， 接少量并发单子。vx: 359926203
 ![cd94b73c16f192ca34976c1ce58014e](https://user-images.githubusercontent.com/42806328/167443107-7efafbad-c4a3-4285-b05a-d0ac82c3d337.png)
 ![ac1666f058efa48ec3d4dc759e79129](https://user-images.githubusercontent.com/42806328/167443140-ec063c77-9c84-43d3-b546-26eeb8adc375.png)
 ![3d1b1e92e508978007472a75f055a35](https://user-images.githubusercontent.com/42806328/167443166-790c53e0-a980-4d3c-a4c7-cc0111a88a49.png)
@@ -13,6 +13,6 @@ dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破�
 ![7556d440fcca65decec9e074bc5be4e](https://user-images.githubusercontent.com/42806328/167443515-560f94a1-615e-47b6-a043-f3a5b19d9f12.png)
 ------------可少量并发， 出售AKM并发方案，成功率会逐渐上升。--------------------------------
 
-![1652785502(1)](https://user-images.githubusercontent.com/42806328/168798068-602cedb4-b6f6-4842-bde9-62493dda90e6.png)
+![image](https://user-images.githubusercontent.com/42806328/170408817-00e0093e-90e0-4eba-860c-f3edbd9989c6.png)
 
 
