@@ -1,6 +1,5 @@
 # akamai_abck
-akamai sensordata 2py通杀脚本
-dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破盾算法纯PY还原，私聊询价。可提供并发方案, 下面有并发结果， 接单子。vx: 359926203
+akamai 接口月租服务联系:  v   359926203
 ![cd94b73c16f192ca34976c1ce58014e](https://user-images.githubusercontent.com/42806328/167443107-7efafbad-c4a3-4285-b05a-d0ac82c3d337.png)
 ![ac1666f058efa48ec3d4dc759e79129](https://user-images.githubusercontent.com/42806328/167443140-ec063c77-9c84-43d3-b546-26eeb8adc375.png)
 ![3d1b1e92e508978007472a75f055a35](https://user-images.githubusercontent.com/42806328/167443166-790c53e0-a980-4d3c-a4c7-cc0111a88a49.png)
@@ -11,7 +10,7 @@ dhl, ups, jetstar, ikea, zimchina , feedex, lv各大网站已经验证。仅破�
 ![ddb155e31d63ba5245995184ace0d68](https://user-images.githubusercontent.com/42806328/167443312-bba8a437-befe-44a5-985e-c08304a64915.png)
 ![c7c2bb17767a09bb83b45ae2c23f003](https://user-images.githubusercontent.com/42806328/167443491-00f169f4-3b16-4998-b5b4-68390a2cd50b.png)
 ![7556d440fcca65decec9e074bc5be4e](https://user-images.githubusercontent.com/42806328/167443515-560f94a1-615e-47b6-a043-f3a5b19d9f12.png)
-------------目前个各网站20线程 CK产出QPS为5左右，可支持一般公司业务,高通过率。--------------------------------
+------------单网站支持50并发左右,高通过率。--------------------------------
 
 
 
